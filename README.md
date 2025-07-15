@@ -1,4 +1,4 @@
-# Vastra: Intelligent Fashion Styling Assistant (Re-ID Assignment)
+# Soccer Player Re-Identification Assignment
 
 This repository contains the solution for the Player Re-Identification in Sports Footage assignment, part of the interview process for an AI Intern role at Liat.ai. The primary goal is to implement a system that can detect players in a given 15-second video clip and consistently assign them unique IDs, even if they move out of frame and re-enter.
 
