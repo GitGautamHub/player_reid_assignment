@@ -1,0 +1,9 @@
+# requirements.txt
+torch
+torchvision
+ultralytics
+opencv-python
+opencv-contrib-python
+numpy
+faiss-cpu
+Pillow 

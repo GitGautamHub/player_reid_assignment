@@ -1,0 +1,26 @@
+
+venv/
+.venv/ # Some tools might create .venv
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.dist-info/
+*.egg-info/
+# Downloaded models
+src/models/*.pt  
+src/models/*.pth
+
+# Output files
+output/  
+# IDE-specific files (if any)
+.vscode/              # VS Code settings and temporary files
+.idea/                # IntelliJ IDEA / PyCharm files
+
+# Operating System files
+.DS_Store             # macOS
+Thumbs.db             # Windows
+ehthumbs.db           # Windows
+.Spotlight-V100       # macOS
+.Trashes              # macOS
